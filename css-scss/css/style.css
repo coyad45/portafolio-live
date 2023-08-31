@@ -29,12 +29,16 @@ body main .recuadro {
   width: 328px;
   height: 70px;
   border-radius: 15px;
+  transition-duration: 0.5s;
   background-color: black;
 }
 body main .recuadro p {
   padding: 10px;
   color: white;
   font-weight: bold;
+}
+body main .recuadro:hover, body main .recuadro:active {
+  transform: scale(1.02);
 }
 body main .main__sobre-mi {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../assets/img/lentes.jpg");

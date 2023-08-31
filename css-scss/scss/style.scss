@@ -32,7 +32,7 @@ body{
             width: 328px;
             height: 70px;
             border-radius: 15px;
-            
+            transition-duration: 0.5s;
             background-color: black;
             p{
                 padding: 10px;
@@ -40,6 +40,9 @@ body{
                 font-weight: bold;
                 
             }
+        }
+        .recuadro:hover,.recuadro:active{
+            transform: scale(1.02);
         }
         .main__sobre-mi{
             
