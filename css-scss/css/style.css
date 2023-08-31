@@ -37,31 +37,31 @@ body main .recuadro p {
   font-weight: bold;
 }
 body main .main__sobre-mi {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/dev/assets/img/lentes.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("dev/assets/img/lentes.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 body main .main__herramientas {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/dev/assets/img/programacion.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("dev/assets/img/programacion.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 body main .main__proyectos {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/dev/assets/img/proyectos.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("dev/assets/img/proyectos.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 body main .main__sketchbook {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/dev/assets/img/sketchbook.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("dev/assets/img/sketchbook.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 body main .main__contacto {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./assets/img/contacto.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("dev/assets/img/contacto.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
