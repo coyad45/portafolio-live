@@ -9,7 +9,7 @@ body {
   min-width: 360px;
   max-height: 640px;
   display: grid;
-  place-self: center;
+  place-content: center;
 }
 body main {
   margin: 10px 16px;
