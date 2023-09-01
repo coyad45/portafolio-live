@@ -73,4 +73,11 @@ body main .main__contacto {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+main img {
+  width: 185px;
+  height: 185px;
+  border-radius: 50%;
+  place-self: center;
 }/*# sourceMappingURL=style.css.map */
