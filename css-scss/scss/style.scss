@@ -11,9 +11,10 @@ body{
     place-content: center;
 
     main{
-        margin: 10px 16px;
+        margin: 16px;
         display: flex;
         flex-direction: column;
+        width: 360px;
         gap: 37px;
         max-height: 640px;
         .main__container-titles{
@@ -27,7 +28,9 @@ body{
             }
         }
         
-
+        a{
+            text-decoration: none;
+        }
         .recuadro{
             width: 328px;
             height: 70px;

@@ -12,9 +12,10 @@ body {
   place-content: center;
 }
 body main {
-  margin: 10px 16px;
+  margin: 16px;
   display: flex;
   flex-direction: column;
+  width: 360px;
   gap: 37px;
   max-height: 640px;
 }
@@ -24,6 +25,9 @@ body main .main__container-titles .main__title {
 }
 body main .main__container-titles .main__sub-title {
   color: #5945D6;
+}
+body main a {
+  text-decoration: none;
 }
 body main .recuadro {
   width: 328px;
