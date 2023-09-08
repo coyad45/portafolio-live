@@ -85,10 +85,17 @@ main{
     img{
         width: 185px;
         height: 185px;
+       
         border-radius: 50%;
         place-self: center;
     }
     .main__container{
         width: 360px;
+        
+        p{
+            margin: 16px 0;
+            text-align: justify;
+
+        }
     }
 }

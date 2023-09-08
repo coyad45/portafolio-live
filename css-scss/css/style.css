@@ -82,4 +82,8 @@ main img {
 }
 main .main__container {
   width: 360px;
+}
+main .main__container p {
+  margin: 16px 0;
+  text-align: justify;
 }/*# sourceMappingURL=style.css.map */
